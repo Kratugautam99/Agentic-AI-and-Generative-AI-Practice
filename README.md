@@ -50,7 +50,7 @@ The projects leverage a diverse set of modern AI and developer tools:
 | Category | Technologies |
 |----------|--------------|
 | **Agent Frameworks** | CrewAI, LangChain, LangGraph, LangSmith, LlamaIndex, Smolagents, Agno, Phidata, LangBase |
-| **LLM Providers & Hardware** | Cerebras, Gemini, OpenAI, Ollama, vLLM, Llamacpp, LM Studio, Jan, Koboldcpp, OpenClaw |
+| **LLM Providers & Hardware** | Cerebras, Gemini, Groq, OpenAI, Ollama, vLLM, Llamacpp, LM Studio, Jan, Koboldcpp, OpenClaw |
 | **Voice & Real‑time** | LiveKit, Cartesia, DeepGram, ElevenLabs |
 | **Search & Data** | Exa, Neo4j, SQL, Chroma, RAG pipelines |
 | **Development & Deployment** | Python, TypeScript, Streamlit, FastAPI, MCP, Docker, UV, Conda |
