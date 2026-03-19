@@ -1,0 +1,33 @@
+Claude MCP 
+1) Download claude desktop and create a virtual env of conda(recommended)/pip/uv
+2) Enable developer setting in claude desktop in help section on top left corner
+3) Open settings click on developer section and edit config file take the refer of the provided sample in this folder
+4) Instead of sample conda compiler path provided write your own path of your own virtual env
+5) Reload MCP Configuration option in developer option after again clicking on top left corner and use Claude MCP
+
+Github Copilot MCP
+
+### MainCode/ (To Run and Test Code Individually)
+This directory contains the original code used during the course tutorial. It includes:
+- `Scenario1/`: Basic MCP calculator implementation (run: npx @modelcontextprotocol/inspector python path/to/scenario1/file)
+- `Scenario2/`: FastAPI integration with MCP (run: python path\to\scenario2\file and npx @modelcontextprotocol/inspector https://localhost:8002/mcp)
+- `Scenario3/`: FreeCodeCamp RSS feed reader (run: npx @modelcontextprotocol/inspector python path/to/scenario3/file)
+- `deployment/`: Deployment configuration examples
+
+### Explanatory Version/ is the directory of explanation of code in MainCode
+
+## Getting Started with MCP
+
+To use MCP in Visual Studio Code, you need to configure it properly:
+
+0. Install dependencies after creating virtual env using pip/conda/uv and also Download Github Copilot Extension on VSCode 
+and run:npm install -g @modelcontextprotocol/inspector to inspect
+
+1. Create a `.vscode` folder in your project root:
+```bash
+mkdir .vscode
+```
+
+2. Create an `mcp.json` file inside the `.vscode` folder with this template using "sample_mcp.json" provided in the folder
+
+3. Then open Github Copilot and select model and tools, then it will be prompted to open and run mcp server, allow it to run and test

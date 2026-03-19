@@ -1,0 +1,5 @@
+fastapi 
+fastapi-mcp 
+uvicorn
+fastmcp
+feedparser

@@ -1,6 +1,6 @@
 import os
 import tempfile
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders.sitemap import SitemapLoader
 from langchain_community.vectorstores import SKLearnVectorStore
 from langchain_openai import OpenAIEmbeddings
@@ -30,7 +30,10 @@ def get_vector_db_retriever():
         return vectorstore.as_retriever(lambda_mult=0)
 
     # Otherwise, index LangSmith documents and create new vector store
-    ls_docs_sitemap_loader = SitemapLoader(web_path="https://docs.smith.langchain.com/sitemap.xml", continue_on_failure=True)
+    ls_docs_sitemap_loader = SitemapLoader(
+        web_path="https://docs.langchain.com/sitemap.xml",
+        filter_urls=["https://docs.langchain.com/langsmith/"],
+        continue_on_failure=True)
     ls_docs = ls_docs_sitemap_loader.load()
 
     text_splitter = RecursiveCharacterTextSplitter.from_tiktoken_encoder(

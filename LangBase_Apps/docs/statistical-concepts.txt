@@ -1,0 +1,57 @@
+# Statistical Concepts
+
+## Descriptive Statistics
+- Mean: Average of a dataset.
+- Median: Middle value when data is ordered.
+- Mode: Most frequently occurring value.
+- Variance: Measure of data spread.
+- Standard Deviation: Square root of variance, indicates dispersion.
+- Range: Difference between maximum and minimum values.
+
+---
+
+## Probability
+- Random Variable: Variable whose values depend on outcomes of a random phenomenon.
+- Probability Distribution: Function describing likelihood of outcomes.
+- Normal Distribution: Bell-shaped curve, symmetric around mean.
+- Binomial Distribution: Probability of success/failure in fixed trials.
+- Poisson Distribution: Probability of events occurring in fixed intervals.
+
+---
+
+## Inferential Statistics
+- Population vs Sample: Entire group vs subset used for analysis.
+- Sampling Methods: Random, stratified, cluster, systematic.
+- Confidence Interval: Range of values likely to contain population parameter.
+- Hypothesis Testing: Procedure to test assumptions about population.
+  - Null Hypothesis (H₀): No effect or difference.
+  - Alternative Hypothesis (H₁): Presence of effect or difference.
+- p-value: Probability of observing results if H₀ is true.
+- Significance Level (α): Threshold for rejecting H₀ (commonly 0.05).
+
+---
+
+## Correlation & Regression
+- Correlation Coefficient (r): Strength and direction of linear relationship.
+- Simple Linear Regression: Predict dependent variable using one independent variable.
+- Multiple Regression: Predict dependent variable using multiple independent variables.
+- R² (Coefficient of Determination): Proportion of variance explained by model.
+
+---
+
+## Advanced Concepts
+- ANOVA (Analysis of Variance): Compare means across multiple groups.
+- Chi-Square Test: Test independence of categorical variables.
+- t-Test: Compare means between two groups.
+- F-Test: Compare variances between groups.
+- Bayesian Statistics: Update probabilities with new evidence.
+- Central Limit Theorem: Distribution of sample means approaches normal as sample size increases.
+
+---
+
+## Data Considerations
+- Bias: Systematic error in data collection or analysis.
+- Outliers: Extreme values that may distort results.
+- Missing Data: Strategies include imputation, deletion, or modeling.
+- Overfitting: Model fits training data too closely, fails to generalize.
+- Underfitting: Model too simple, fails to capture patterns.

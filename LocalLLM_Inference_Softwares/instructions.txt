@@ -1,0 +1,4 @@
+Guidelines regarding the ollama 
+1) Ollama files can be run by simple commands but needs venv + requirements setup like others and api keys setup in .env
+2) Application Folder is provided with some Ollama Applications
+3) Also like ollama there are other local model running app or softwares they are also tested by me and screenshots are in Imgs folder instead this folder.

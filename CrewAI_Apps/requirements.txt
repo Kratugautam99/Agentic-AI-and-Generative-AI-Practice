@@ -1,0 +1,6 @@
+crewai 
+serpapi
+pydantic 
+crewai-tools 
+python-dotenv 
+google-search-results

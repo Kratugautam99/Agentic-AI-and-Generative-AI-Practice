@@ -1,0 +1,10 @@
+To Run LangChain Restaurant Details Generator
+1) Put Required API Keys in the .env file.
+2) Create Conda/UV/Pip Venv and use requirements.txt to download dependencies
+3) Use command "streamlit run frontend_streamlit.py" to run the application
+
+To Run Other Files
+1) Follow first 2 steps of Restaurant Details Generator
+2) Run the files
+3) Intro-to-LangChain/Graph/Smith are the set of tutorial files provided by LangChain's LangChain Academy itself
+4) Notebook Data Input is the Input Data used by the provided Notebooks

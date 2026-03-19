@@ -1,0 +1,6 @@
+# Required packages for deployment
+fastmcp>=0.1.0
+feedparser>=6.0.0
+
+# Note: These are minimum versions. You might want to use
+# the latest compatible versions in production.

@@ -1,0 +1,63 @@
+## 🥦 Produce
+- Apples  
+- Bananas  
+- Bell Peppers  
+- Broccoli  
+- Carrots  
+- Garlic  
+- Lettuce  
+- Mushrooms  
+- Onions  
+- Potatoes  
+- Spinach  
+- Strawberries  
+- Tomatoes  
+
+## 🥛 Dairy
+- Butter  
+- Cheese  
+- Milk  
+- Yogurt  
+
+## 🍖 Meat & Seafood
+- Chicken Breast  
+- Ground Beef  
+- Salmon  
+- Sausages  
+- Shrimp  
+
+## 🍞 Bakery & Grains
+- Bread  
+- Cereal  
+- Flour  
+- Oatmeal  
+- Pasta  
+- Rice  
+
+## 🍬 Snacks & Sweets
+- Chips  
+- Chocolate  
+- Granola Bars  
+- Ice Cream  
+- Jam  
+
+## 🥤 Beverages
+- Coffee  
+- Orange Juice  
+- Soda  
+- Tea  
+
+## 🍯 Pantry Staples
+- Honey  
+- Olive Oil  
+- Peanut Butter  
+- Sugar  
+- Almonds  
+
+## 🧴 Household Essentials
+- Dish Soap  
+- Laundry Detergent  
+- Paper Towels  
+- Shampoo  
+- Toilet Paper  
+- Toothpaste  

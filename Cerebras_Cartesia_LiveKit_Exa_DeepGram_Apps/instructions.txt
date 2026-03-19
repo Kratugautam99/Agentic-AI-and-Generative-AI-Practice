@@ -1,0 +1,1 @@
+Just run the notebooks and in the Google Colab for better free gpu

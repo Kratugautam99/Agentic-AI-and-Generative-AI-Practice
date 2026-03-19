@@ -1,0 +1,4 @@
+First setup the pc for npm package installer
+use npm init and npm i langbase dotenv respectively before anything
+then run create-memory, upload-docs, create-pipe, index .ts files in this order only
+run by using npx tsx {filepath}

@@ -1,0 +1,4 @@
+Follow the Instructions below
+1) Create virtual env by using uv, conda(recommended), pip and refer .python-version file to see the python version
+2) Install the dependencies mentioned in the requirements.txt
+3) Run the files using python {filepath}

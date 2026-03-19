@@ -1,0 +1,27 @@
+{
+	"servers": {
+		"Calculator-STDIO": {
+			"command": "C:\\Users\\user\\.conda\\envs\\testenv\\python.exe",
+			"args": [
+				"c:\\Users\\user\\Downloads\\Agentic-AI-Practice\\MCP_Server\\MainCode\\Scenario1\\fastmcp_calculator.py"
+			],
+			"type": "stdio"
+		},
+		"Calculator-HTTP": {
+        "command": "C:\\Users\\user\\.conda\\envs\\testenv\\python.exe",
+        "args": [
+            "C:\\Users\\user\\Downloads\\Agentic-AI-Practice\\MCP_Server\\MainCode\\Scenario2\\fastapi-mcp_calculator.py"
+        ],
+        "type": "stdio",
+        "url": "http://localhost:8002/mcp"
+        },
+		"FreeCodeCamp-STDIO": {
+			"command": "C:\\Users\\user\\.conda\\envs\\testenv\\python.exe",
+			"args": [
+				"C:\\Users\\user\\Downloads\\Agentic-AI-Practice\\MCP_Server\\MainCode\\Scenario3\\feed_mcp.py"
+			],
+			"type": "stdio"
+		},
+	},
+	"inputs": []
+}
