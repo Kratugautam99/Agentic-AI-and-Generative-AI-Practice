@@ -1,6 +1,6 @@
 # 🤖 Agentic AI and Generative AI Practice
 
-![Agentic AI and Generative AI Banner](YOUR_BANNER_IMAGE_LINK_HERE)
+![Agentic AI and Generative AI Banner](https://raw.githubusercontent.com/Kratugautam99/Agentic-AI-and-Generative-AI-Practice/refs/heads/master/DemoIMG/Agentic-and-Generative-AI.png)
 
 <p align="center">
   <a href="#-introduction"><img src="https://img.shields.io/badge/Introduction-📘-blue?style=for-the-badge"></a>
@@ -287,9 +287,13 @@ Run the notebooks in Google Colab (recommended for free GPU). Each notebook is s
 
 **Key Images:**
 
-| Email Agent | Research Agent | Marketing Agent | Legal Agent |
-|:---:|:---:|:---:|:---:|
-| ![Email](CrewAI_Apps/Imgs/CrewAI_Email_Agent.png) | ![Research](CrewAI_Apps/Imgs/CrewAI_Research_Agent.png) | ![Marketing](CrewAI_Apps/Imgs/CrewAI_Marketing_Agent.png) | ![Legal](CrewAI_Apps/Imgs/CrewAI_Legal_Agent.png) |
+| Email Agent | Research Agent |
+|:---:|:---:|
+| ![Email](CrewAI_Apps/Imgs/CrewAI_Email_Agent.png) | ![Research](CrewAI_Apps/Imgs/CrewAI_Research_Agent.png) | 
+
+| Marketing Agent | Legal Agent |
+|:---:|:---:|
+|![Marketing](CrewAI_Apps/Imgs/CrewAI_Marketing_Agent.png) | ![Legal](CrewAI_Apps/Imgs/CrewAI_Legal_Agent.png) |
 
 **Instructions:**  
 1. Create a virtual environment (Conda recommended) with Python version from `.python-version`.  
@@ -329,9 +333,13 @@ Run the notebooks in Google Colab (recommended for free GPU). Each notebook is s
 
 **Key Images:**
 
-| Restaurant Generator (1) | Restaurant Generator (2) | QA over Neo4j | RAG Summary |
-|:---:|:---:|:---:|:---:|
-| ![Rest1](LangChain_LangGraph_LangSmith_Apps/Imgs/LangChain_Gemini_Restaurant_Generator_1.png) | ![Rest2](LangChain_LangGraph_LangSmith_Apps/Imgs/LangChain_Gemini_Restaurant_Generator_2.png) | ![Neo4j QA](LangChain_LangGraph_LangSmith_Apps/Imgs/LangTrio_QA_Neo4J_Dataset.png) | ![RAG](LangChain_LangGraph_LangSmith_Apps/Imgs/LangTrio_Retrieval_Augmented_Generator.png) |
+| Restaurant Generator (1) | Restaurant Generator (2) | 
+|:---:|:---:|
+| ![Rest1](LangChain_LangGraph_LangSmith_Apps/Imgs/LangChain_Gemini_Restaurant_Generator_1.png) | ![Rest2](LangChain_LangGraph_LangSmith_Apps/Imgs/LangChain_Gemini_Restaurant_Generator_2.png) | 
+
+| QA over Neo4j | RAG Summary |
+|:---:|:---:|
+| ![Neo4j QA](LangChain_LangGraph_LangSmith_Apps/Imgs/LangTrio_QA_Neo4J_Dataset.png) | ![RAG](LangChain_LangGraph_LangSmith_Apps/Imgs/LangTrio_Retrieval_Augmented_Generator.png) |
 
 **Instructions:**  
 - For the **Restaurant Generator**:  
@@ -351,9 +359,13 @@ Run the notebooks in Google Colab (recommended for free GPU). Each notebook is s
 
 **Key Images:**
 
-| Agents | Components | Tools | Workflows |
-|:---:|:---:|:---:|:---:|
-| ![Agents](LlamaIndex_and_ArizeAI_Apps/Imgs/LlamaIndex_Agents.png) | ![Components](LlamaIndex_and_ArizeAI_Apps/Imgs/LlamaIndex_ArizeAI_Components.png) | ![Tools](LlamaIndex_and_ArizeAI_Apps/Imgs/LlamaIndex_Tools.png) | ![Workflows](LlamaIndex_and_ArizeAI_Apps/Imgs/LlamaIndex_Workflows.png) |
+| Agents | Components |
+|:---:|:---:|
+| ![Agents](LlamaIndex_and_ArizeAI_Apps/Imgs/LlamaIndex_Agents.png) | ![Components](LlamaIndex_and_ArizeAI_Apps/Imgs/LlamaIndex_ArizeAI_Components.png) |
+---
+| Tools | Workflows |
+|:---:|:---:|
+| ![Tools](LlamaIndex_and_ArizeAI_Apps/Imgs/LlamaIndex_Tools.png) | ![Workflows](LlamaIndex_and_ArizeAI_Apps/Imgs/LlamaIndex_Workflows.png) |
 
 **Instructions:**  
 Run the notebooks in Google Colab for optimal performance.
@@ -371,9 +383,18 @@ Run the notebooks in Google Colab for optimal performance.
 
 **Key Images:**
 
-| Ollama CLI | Ollama OpenWebUI | LM Studio | vLLM CLI | Jan App | Koboldcpp |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| ![Ollama CLI](LocalLLM_Inference_Softwares/Imgs/Ollama_CLI.png) | ![OpenWebUI](LocalLLM_Inference_Softwares/Imgs/Ollama_OpenWebUI.png) | ![LM Studio](LocalLLM_Inference_Softwares/Imgs/LMStudio_App.png) | ![vLLM](LocalLLM_Inference_Softwares/Imgs/Vllm_CLI.png) | ![Jan](LocalLLM_Inference_Softwares/Imgs/JanAI_App.png) | ![Koboldcpp](LocalLLM_Inference_Softwares/Imgs/Koboldcpp_App.png) |
+| Ollama CLI | Ollama App | Ollama WebUI |
+|:---:|:---:|:---:|
+| ![Ollama CLI](LocalLLM_Inference_Softwares/Imgs/Ollama_CLI.png) | ![Ollama App](LocalLLM_Inference_Softwares/Imgs/Ollama_App.png) | ![Ollama WebUI](LocalLLM_Inference_Softwares/Imgs/Ollama_OpenWebUI.png) |
+
+| Jan App | Koboldcpp | LM Studio |
+|:---:|:---:|:---:|
+| ![Jan](LocalLLM_Inference_Softwares/Imgs/JanAI_App.png) | ![Koboldcpp](LocalLLM_Inference_Softwares/Imgs/Koboldcpp_App.png) | ![LM Studio](LocalLLM_Inference_Softwares/Imgs/LMStudio_App.png) |
+
+| Openclaw CLI | Llamacpp CLI | vLLM CLI |
+|:---:|:---:|:---:|
+| ![Openclaw CLI](LocalLLM_Inference_Softwares/Imgs/Openclaw_CLI.png) | ![Llamacpp CLI](LocalLLM_Inference_Softwares/Imgs/Llamacpp_CLI.png) | ![vLLM CLI](LocalLLM_Inference_Softwares/Imgs/Vllm_CLI.png) |
+
 
 **Instructions:**  
 1. Set up a virtual environment and install `requirements.txt`.  
@@ -396,9 +417,17 @@ Also includes configuration for Claude Desktop and GitHub Copilot integration.
 
 **Key Images:**
 
-| Claude Desktop Toy Dataset (1) | Claude Desktop Toy Dataset (2) | Copilot Calculator | Copilot Feed Search | MCP Inspect Scenario 1 | MCP Inspect Scenario 2 | MCP Inspect Scenario 3 |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| ![Claude1](MCP_Server_Tools/Imgs/Claude_Desktop_ToyDatasetMCP1.png) | ![Claude2](MCP_Server_Tools/Imgs/Claude_Desktop_ToyDatasetMCP2.png) | ![CopilotCalc](MCP_Server_Tools/Imgs/Github_Copilot_CalculatorMCP.png) | ![CopilotFeed](MCP_Server_Tools/Imgs/Github_Copilot_FeedSearchMCP.png) | ![Inspect1](MCP_Server_Tools/Imgs/MCP_ServerInspect_Scenario1.png) | ![Inspect2](MCP_Server_Tools/Imgs/MCP_ServerInspect_Scenario2.png) | ![Inspect3](MCP_Server_Tools/Imgs/MCP_ServerInspect_Scenario3.png) |
+| Claude Desktop Toy Dataset (1) | Claude Desktop Toy Dataset (2) | 
+|:---:|:---:|
+| ![Claude1](MCP_Server_Tools/Imgs/Claude_Desktop_ToyDatasetMCP1.png) | ![Claude2](MCP_Server_Tools/Imgs/Claude_Desktop_ToyDatasetMCP2.png) | 
+
+|Copilot Calculator | Copilot Feed Search | 
+|:---:|:---:|
+|![CopilotCalc](MCP_Server_Tools/Imgs/Github_Copilot_CalculatorMCP.png) | ![CopilotFeed](MCP_Server_Tools/Imgs/Github_Copilot_FeedSearchMCP.png) | 
+
+|MCP Inspect Scenario 1 | MCP Inspect Scenario 2 | MCP Inspect Scenario 3 |
+|:---:|:---:|:---:|
+|![Inspect1](MCP_Server_Tools/Imgs/MCP_ServerInspect_Scenario1.png) | ![Inspect2](MCP_Server_Tools/Imgs/MCP_ServerInspect_Scenario2.png) | ![Inspect3](MCP_Server_Tools/Imgs/MCP_ServerInspect_Scenario3.png) |
 
 **Instructions:**  
 - **Claude Desktop MCP**:  
@@ -421,9 +450,17 @@ Also includes configuration for Claude Desktop and GitHub Copilot integration.
 
 **Key Images:**
 
-| Code Agent | Multi‑Agent | Retrieval Agent | Tool‑calling Agent | Tools | Vision Agent |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| ![Code](Smolagent_and_LangFuse_Apps/Imgs/Smolagents_LangFuse_Code_Agent.png) | ![Multi](Smolagent_and_LangFuse_Apps/Imgs/Smolagents_Multi_Agents_Notebook.png) | ![Retrieval](Smolagent_and_LangFuse_Apps/Imgs/Smolagents_Retrieval_Agents.png) | ![ToolCall](Smolagent_and_LangFuse_Apps/Imgs/Smolagents_Tool_calling_Agents.png) | ![Tools](Smolagent_and_LangFuse_Apps/Imgs/Smolagents_Tools.png) | ![Vision](Smolagent_and_LangFuse_Apps/Imgs/Smolagent_Vision_Agents.png) |
+| Code Agent | Multi‑Agent | 
+|:---:|:---:|
+| ![Code](Smolagent_and_LangFuse_Apps/Imgs/Smolagents_LangFuse_Code_Agent.png) | ![Multi](Smolagent_and_LangFuse_Apps/Imgs/Smolagents_Multi_Agents_Notebook.png) | 
+
+|Retrieval Agent | Tool‑calling Agent | 
+|:---:|:---:|
+|![Retrieval](Smolagent_and_LangFuse_Apps/Imgs/Smolagents_Retrieval_Agents.png) | ![ToolCall](Smolagent_and_LangFuse_Apps/Imgs/Smolagents_Tool_calling_Agents.png) |
+
+|Tools | Vision Agent |
+|:---:|:---:|
+| ![Tools](Smolagent_and_LangFuse_Apps/Imgs/Smolagents_Tools.png) | ![Vision](Smolagent_and_LangFuse_Apps/Imgs/Smolagents_Vision_Agents.png) |
 
 **Instructions:**  
 Run the notebooks in Google Colab (recommended for free GPU). Each notebook is self‑contained.
@@ -436,8 +473,10 @@ This repository incorporates materials and projects from the following renowned 
 
 | Course | Completion Evidence |
 |--------|---------------------|
-| **LangChain Academy** (LangChain, LangGraph, LangSmith) | ![LangChain Academy](YOUR_LANGCHAIN_CERT_IMAGE_LINK) |
-| **Hugging Face Agents Course** | ![Hugging Face Agents](YOUR_HF_AGENTS_CERT_IMAGE_LINK) |
+| **LangChain Academy** Intro-to-LangChain | ![LangChain Academy](https://cdn.filestackcontent.com/cA1Hj2VCT1e4GveGwezK?policy=eyJjYWxsIjpbInJlYWQiXSwiZXhwaXJ5IjoxNzczOTM0NDk5LCJwYXRoIjoiLyJ9&signature=639be6f9677d19e078acb65008502983c20ee6f0068200c1b2cb7bab5027eecc) |
+| **LangChain Academy** Intro-to-LangGraph | ![LangChain Academy](https://cdn.filestackcontent.com/IWi8eQZTQ2Y36RcUgRtt?policy=eyJjYWxsIjpbInJlYWQiXSwiZXhwaXJ5IjoxNzczOTM0NTQ1LCJwYXRoIjoiLyJ9&signature=d9affd53b2fa50adfeb6c9b44681d6804b6f009523c7751d19040933c0948518) |
+| **LangChain Academy** Intro-to-LangSmith | ![LangChain Academy](https://cdn.filestackcontent.com/aHR2u08THORpHfHDheFq?policy=eyJjYWxsIjpbInJlYWQiXSwiZXhwaXJ5IjoxNzczOTM0NTY3LCJwYXRoIjoiLyJ9&signature=baba0c59efc26994ff607d49809695547566a85b76ac5e8ad60dedc94a7e50ee) |
+| **Hugging Face Agents Course** | ![Hugging Face Agents](https://cdn-uploads.huggingface.co/production/uploads/noauth/VYUOUV1IawUbazA6qCkya.webp) |
 
 *Place your certificate image links above.*
 
